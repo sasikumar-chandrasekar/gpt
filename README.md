@@ -4,7 +4,9 @@
 
 # ✅ **Which companies provide core (foundation) AI models for organizations?**
 
-Organizations typically rely on **foundation model providers**—companies that build large‑scale AI models (LLMs, multimodal models, diffusion models) used across industries.  
+Organizations typically rely on **foundation model providers**—companies that build large‑scale AI models (LLMs, multimodal models, diffusion models) used across industries.
+
+
 Based on current 2025–2026 industry data, the major providers are:
 
 ***
