@@ -13,61 +13,61 @@ Based on current 2025–2026 industry data, the major providers are:
 
 ## **1. Microsoft / OpenAI**
 
-Microsoft is considered a **top foundational model provider**, mainly due to its partnership with OpenAI and distribution of GPT models (GPT‑4, GPT‑4 Turbo, etc.) across Azure and Microsoft 365.    [\[neuralcapital.ai\]](https://www.neuralcapital.ai/articles/top-10-ai-foundation-model-providers)
+Microsoft is considered a **top foundational model provider**, mainly due to its partnership with OpenAI and distribution of GPT models (GPT‑4, GPT‑4 Turbo, etc.) across Azure and Microsoft 365.
 
 ***
 
 ## **2. Google (Alphabet) – Gemini**
 
-Google provides its Gemini (formerly Bard) multimodal foundation models through **Google Cloud Vertex AI**, widely used by enterprises.    [\[neuralcapital.ai\]](https://www.neuralcapital.ai/articles/top-10-ai-foundation-model-providers)
+Google provides its Gemini (formerly Bard) multimodal foundation models through **Google Cloud Vertex AI**, widely used by enterprises.
 
 ***
 
 ## **3. Amazon – AWS Bedrock**
 
-AWS Bedrock offers access to multiple foundation models (Anthropic Claude, Cohere, Meta Llama, Amazon Titan). It is positioned as a **neutral, enterprise-friendly core model platform**.    [\[neuralcapital.ai\]](https://www.neuralcapital.ai/articles/top-10-ai-foundation-model-providers)
+AWS Bedrock offers access to multiple foundation models (Anthropic Claude, Cohere, Meta Llama, Amazon Titan). It is positioned as a **neutral, enterprise-friendly core model platform**.
 
 ***
 
 ## **4. Meta – Llama Models**
 
-Meta offers its **Llama 3** and other open-source models that many organizations adopt as customizable foundation models.    [\[neuralcapital.ai\]](https://www.neuralcapital.ai/articles/top-10-ai-foundation-model-providers)
+Meta offers its **Llama 3** and other open-source models that many organizations adopt as customizable foundation models.
 
 ***
 
 ## **5. Anthropic – Claude Models**
 
-Anthropic develops Claude models focused on safe, controllable AI—used by many large enterprises.    [\[stack-ai.com\]](https://www.stack-ai.com/blog/top-enterprise-ai-development-companies)
+Anthropic develops Claude models focused on safe, controllable AI—used by many large enterprises.
 
 ***
 
 ## **6. Salesforce – Einstein 1 Platform**
 
-Salesforce provides **vertical-specific foundation models** integrated into CRM workflows.    [\[neuralcapital.ai\]](https://www.neuralcapital.ai/articles/top-10-ai-foundation-model-providers)
+Salesforce provides **vertical-specific foundation models** integrated into CRM workflows.
 
 ***
 
 ## **7. Adobe – Firefly (for Visual Models)**
 
-Adobe Firefly is a foundational generative model for enterprise-safe **image and video creation**.    [\[neuralcapital.ai\]](https://www.neuralcapital.ai/articles/top-10-ai-foundation-model-providers)
+Adobe Firefly is a foundational generative model for enterprise-safe **image and video creation**.
 
 ***
 
 ## **8. IBM – Watsonx**
 
-IBM Watsonx is widely used in regulated industries and provides governance‑friendly core models.    [\[stack-ai.com\]](https://www.stack-ai.com/blog/top-enterprise-ai-development-companies)
+IBM Watsonx is widely used in regulated industries and provides governance‑friendly core models.
 
 ***
 
 ## **9. Databricks**
 
-Databricks provides a unified data + AI platform, helping enterprises train or deploy custom foundation models.    [\[stack-ai.com\]](https://www.stack-ai.com/blog/top-enterprise-ai-development-companies)
+Databricks provides a unified data + AI platform, helping enterprises train or deploy custom foundation models.
 
 ***
 
 ## **10. NVIDIA (infrastructure provider but essential for core model training)**
 
-NVIDIA dominates AI compute and enables most other companies to **train their core models**.    [\[designrush.com\]](https://www.designrush.com/agency/ai-companies/trends/top-ai-companies)
+NVIDIA dominates AI compute and enables most other companies to **train their core models**.
 
 ***
 
